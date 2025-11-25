@@ -1,6 +1,7 @@
 # UI-UX-Design
 
 Project Title: Case Prioritizing Portal (SIH 2022 Finalist Project)
+
 This project was developed as an official entry for the Smart India Hackathon (SIH) 2022, where it was selected for the Grand Finals. The objective was to create a robust and intuitive web-based portal designed to streamline and automate the initial prioritization of incoming cases for a government department, specifically addressing the manual inefficiency and bottlenecks often found in public service request systems.
 The core challenge was transforming a manual, subjective case-review process into an efficient, transparent, and digitally-driven workflow.
 
